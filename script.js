@@ -1,0 +1,1 @@
+console.log("Alakh Land Survey & Mapping Website Loaded");
